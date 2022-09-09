@@ -1,0 +1,10 @@
+image:
+  repository: 750796802028.dkr.ecr.us-west-2.amazonaws.com/bookstore.front-end
+
+# REMEMBER TO TEST WHETHER THIS IS REALLY REQUIRED
+api:
+  url: https://api.dev.cmcloudlab686.info
+  resource_api: https://resource-api.dev.cmcloudlab686.info/
+  inventory_api: https://inventory-api.dev.cmcloudlab686.info/
+  renting_api: https://renting-api.dev.cmcloudlab686.info/
+  clients_api: https://clients-api.dev.cmcloudlab686.info/
